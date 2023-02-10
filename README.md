@@ -1,2 +1,5 @@
 # National-Weather-Service-Discord-Bot
-Bot gets radar data and other things
+
+### WORK IN PROGRSS
+
+A bot that gathers data from NEXRAD3 that uses embeds to display said radar data for Reflectivty, Velocity and CC
